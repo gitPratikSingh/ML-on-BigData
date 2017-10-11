@@ -1,5 +1,5 @@
 """
-  This function takes a string as input and returns a pySpark DataFrame
+  This function takes a string as input and returns a pySpark Row
 """
 
 
